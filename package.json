@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "electron": "electron ."
   },
   "keywords": [],
-  "author": "Luis D. Cortes <renaissance.scholar2012@gmail.com> (http://www.dancortes.com/)",
+  "author":
+    "Luis D. Cortes <renaissance.scholar2012@gmail.com> (http://www.dancortes.com/)",
   "license": "MIT",
   "dependencies": {
     "electron": "3.0.3"
