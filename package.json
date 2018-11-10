@@ -7,10 +7,10 @@
     "electron": "electron ."
   },
   "keywords": [],
-  "author":
-    "Luis D. Cortes <renaissance.scholar2012@gmail.com> (http://www.dancortes.com/)",
+  "author": "Luis D. Cortes <renaissance.scholar2012@gmail.com> (http://www.dancortes.com/)",
   "license": "MIT",
   "dependencies": {
-    "electron": "3.0.3"
+    "electron": "3.0.3",
+    "fluent-ffmpeg": "2.1.2"
   }
 }
